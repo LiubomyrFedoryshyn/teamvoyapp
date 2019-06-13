@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/liubomyrfedoryshyn.github.io/teamvoyapp/static/css/main.e2642836.chunk.css",
-    "main.js": "/liubomyrfedoryshyn.github.io/teamvoyapp/static/js/main.d96c20da.chunk.js",
-    "main.js.map": "/liubomyrfedoryshyn.github.io/teamvoyapp/static/js/main.d96c20da.chunk.js.map",
-    "runtime~main.js": "/liubomyrfedoryshyn.github.io/teamvoyapp/static/js/runtime~main.f349c9e6.js",
-    "runtime~main.js.map": "/liubomyrfedoryshyn.github.io/teamvoyapp/static/js/runtime~main.f349c9e6.js.map",
-    "static/js/2.e20ef66d.chunk.js": "/liubomyrfedoryshyn.github.io/teamvoyapp/static/js/2.e20ef66d.chunk.js",
-    "static/js/2.e20ef66d.chunk.js.map": "/liubomyrfedoryshyn.github.io/teamvoyapp/static/js/2.e20ef66d.chunk.js.map",
-    "index.html": "/liubomyrfedoryshyn.github.io/teamvoyapp/index.html",
-    "precache-manifest.6a795bc3c90665e6e06f56e29075347a.js": "/liubomyrfedoryshyn.github.io/teamvoyapp/precache-manifest.6a795bc3c90665e6e06f56e29075347a.js",
-    "service-worker.js": "/liubomyrfedoryshyn.github.io/teamvoyapp/service-worker.js",
-    "static/css/main.e2642836.chunk.css.map": "/liubomyrfedoryshyn.github.io/teamvoyapp/static/css/main.e2642836.chunk.css.map"
+    "main.css": "/teamvoyapp/static/css/main.e2642836.chunk.css",
+    "main.js": "/teamvoyapp/static/js/main.a8d4b344.chunk.js",
+    "main.js.map": "/teamvoyapp/static/js/main.a8d4b344.chunk.js.map",
+    "runtime~main.js": "/teamvoyapp/static/js/runtime~main.99ce054d.js",
+    "runtime~main.js.map": "/teamvoyapp/static/js/runtime~main.99ce054d.js.map",
+    "static/js/2.e20ef66d.chunk.js": "/teamvoyapp/static/js/2.e20ef66d.chunk.js",
+    "static/js/2.e20ef66d.chunk.js.map": "/teamvoyapp/static/js/2.e20ef66d.chunk.js.map",
+    "index.html": "/teamvoyapp/index.html",
+    "precache-manifest.29f98c4b839c010663a51286a8b8e994.js": "/teamvoyapp/precache-manifest.29f98c4b839c010663a51286a8b8e994.js",
+    "service-worker.js": "/teamvoyapp/service-worker.js",
+    "static/css/main.e2642836.chunk.css.map": "/teamvoyapp/static/css/main.e2642836.chunk.css.map"
   }
 }
