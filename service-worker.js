@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/liubomyrfedoryshyn.github.io/teamvoyapp/precache-manifest.15a85521e82a49c07a514ac19439f646.js"
+  "/liubomyrfedoryshyn.github.io/teamvoyapp/precache-manifest.6a795bc3c90665e6e06f56e29075347a.js"
 );
 
 self.addEventListener('message', (event) => {

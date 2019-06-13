@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0c7d641ce72cce0ee1c1877b728050d4",
+    "revision": "466b5cfc075b1f721fcf38111395fa3a",
     "url": "/liubomyrfedoryshyn.github.io/teamvoyapp/index.html"
   },
   {
