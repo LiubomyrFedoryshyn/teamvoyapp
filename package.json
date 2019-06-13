@@ -2,7 +2,7 @@
   "name": "teamvoyapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http:/liubomyrfedoryshyn.github.io/teamvoyapp/",
+  "homepage": "https://liubomyrfedoryshyn.github.io/teamvoyapp/",
   "dependencies": {
     "axios": "^0.19.0",
     "fb-posts": "^1.0.2",
